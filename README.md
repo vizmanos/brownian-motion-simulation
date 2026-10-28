@@ -1,6 +1,6 @@
 # [Project name]: 3D particle simulation
 
-!Brownian Motion Simulation(Main / Brownian Motion Visualization.gif)
+![Brownian Motion Simulation](Main / Brownian Motion Visualization.gif)
 
 A 3D simulation of [Argon, Neon and Helium] particles moving inside a
 closed box, written in C++ with Qt and OpenGL.
