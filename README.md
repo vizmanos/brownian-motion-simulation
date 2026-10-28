@@ -1,4 +1,4 @@
-# [Project name]: 3D particle simulation
+# Brownian Motion: 3D particle simulation in C++
 
 ![Brownian Motion Simulation](https://github.com/vizmanos/Main/blob/main/Brownian%20Motion%20Visualization.gif)
 
