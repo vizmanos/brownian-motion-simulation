@@ -35,7 +35,7 @@ I work together with [Nolan Genaine](https://github.com/NolanEPFL) who is now do
 | Enter | Restart the simulation |
 
 ## Download (macOS)
-Get `main_gl.dmg` from the [Releases](https://github.com/vizmanos/simulation/releases](https://github.com/vizmanos/brownian-motion-simulation/releases/tag/v1.0)) page.
+Get `main_gl.dmg` from the [Releases](https://github.com/vizmanos/brownian-motion-simulation/releases/tag/v1.0) page.
 
 ## Build from source
 Requires Qt 6 and the Xcode command line tools.
