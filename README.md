@@ -2,7 +2,7 @@
 
 ![Brownian Motion Simulation](https://github.com/vizmanos/Main/blob/main/Brownian%20Motion%20Visualization.gif)
 
-A 3D simulation of [Argon, Neon and Helium] particles moving inside a
+A 3D simulation of Argon, Neon and Helium particles moving inside a
 closed box, written in C++ with Qt and OpenGL.
 
 ## How it works
