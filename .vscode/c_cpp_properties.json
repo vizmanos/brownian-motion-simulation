@@ -1,0 +1,15 @@
+{
+  "configurations": [
+    {
+      "name": "Mac-Qt",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/general/include",
+        "/opt/homebrew/opt/qt/include/**"
+      ],
+      "macFrameworkPath": ["/opt/homebrew/opt/qt/lib"],
+      "cppStandard": "c++17"
+    }
+  ],
+  "version": 4
+}
