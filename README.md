@@ -7,7 +7,7 @@ closed box, written in C++ with Qt and OpenGL.
 
 To give a bit of context, this project was carried out during the course taught by Prof. Chappelier of EPFL, _Programmation Orientée Objet_ during the Spring Semester of 2024, long before AI was able to do it in a blink of an eye.
 
-I work together with @Nolan Genaine who is now doing his MSc in Applied Mathematics at ETHZ.
+I work together with [Nolan Genaine](https://github.com/NolanEPFL) who is now doing his MSc in Applied Mathematics at ETHZ.
 
 ## How it works
 - The box (the "enceinte") is 100 × 100 × 100 units.
